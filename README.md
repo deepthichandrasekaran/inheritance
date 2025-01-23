@@ -91,3 +91,9 @@ System.out.println("Triangle Area:"+ triangle.calculateArea());
     }
     
 }
+Output
+Circle Area:78.53981633974483
+Rectangle Area:24.0
+Square Area:16.0
+Triangle Area:7.5
+
